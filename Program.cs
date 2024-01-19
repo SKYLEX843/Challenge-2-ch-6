@@ -20,7 +20,7 @@ float l = 3.0f;
 double m = 3.0;
 decimal n = 3.0m;
 
-// Updates
+// Answares
 a = 4;
 b = 4;
 c = 4;
